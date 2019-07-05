@@ -45,3 +45,30 @@ sudo pip install scikit-plot
 sudo pip install pyleargist
 
 The related publications for each use case is avilable [here](https://scholar.google.co.in/citations?user=oIYw0LQAAAAJ&hl=en&oi=ao)
+
+dns based botnet detection
+https://link.springer.com/chapter/10.1007/978-981-10-8476-8_6 
+
+intrusion detection
+
+https://ieeexplore.ieee.org/abstract/document/8681044/
+
+image spam detection
+
+https://arxiv.org/abs/1810.03977
+
+spoofing detection
+https://www.sciencedirect.com/science/article/pii/S2405959519300025
+
+malicious url detection
+https://ieeexplore.ieee.org/abstract/document/8494159/
+
+malicious domain detection
+https://ieeexplore.ieee.org/abstract/document/8424657/
+
+malware detection
+
+https://www.sciencedirect.com/science/article/abs/pii/S2214212618304563
+
+https://ieeexplore.ieee.org/abstract/document/8681127
+ 
