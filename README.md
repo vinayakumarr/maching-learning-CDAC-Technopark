@@ -65,10 +65,4 @@ https://ieeexplore.ieee.org/abstract/document/8494159/
 
 malicious domain detection
 https://ieeexplore.ieee.org/abstract/document/8424657/
-
-malware detection
-
-https://www.sciencedirect.com/science/article/abs/pii/S2214212618304563
-
-https://ieeexplore.ieee.org/abstract/document/8681127
  
